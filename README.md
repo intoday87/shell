@@ -9,5 +9,5 @@ shell script에 필요한 내용 정리
     ```
     
 - stdout 파일로 기록
-  - `$ [command] &>[filename]
+  - `$ [command] &>[filename]`
   
