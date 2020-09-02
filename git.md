@@ -9,3 +9,8 @@
     ```
     $ git update-index --no-assume-unchanged path/to/file
     ```
+  - 해당 목록 조회. `ls-files`에서 `h /path/to/file` 소문자 `h`로 시작함
+    ```
+    $ git ls-files -v | grep '^[[:lower:]]'
+    ```
+    
