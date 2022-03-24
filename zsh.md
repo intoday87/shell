@@ -3,7 +3,7 @@
 - [theme agnoster](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster)
 - [powerline font](https://github.com/powerline/fonts)
   - [`install.sh`](https://github.com/powerline/fonts#installation) 사용
-  - `Anonymice Powerline` 사용
+  - 메뉴 -> Preferences -> Profiles ->  Font에서 `Anonymice Pro for powerline` 사용
 
 ```.zshrc
 # theme
