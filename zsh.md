@@ -24,3 +24,5 @@ set -o vi
 #kubectl 자동 완성
 source < (kubectl completion zsh)
 ```
+## item2
+- Preferences -> Profile -> Color Presets... -> `Solarized Dark` 
