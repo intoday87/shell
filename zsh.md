@@ -1,6 +1,8 @@
 # .zshrc
 
 - [theme agnoster](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster)
+- [powerline font](https://github.com/powerline/fonts)
+  - `Anonymice Powerline` 
 
 ```.zshrc
 # theme
