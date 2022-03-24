@@ -1,5 +1,7 @@
 # .zshrc
 
+- [theme agnoster](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster)
+
 ```.zshrc
 # theme
 ZSH_THEME="agnoster"
