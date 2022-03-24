@@ -1,6 +1,9 @@
 # .zshrc
 
 ```.zshrc
+# theme
+ZSH_THEME="agnoster"
+
 # plugins
 plugins=(git docker kubectl helm npx)
 
