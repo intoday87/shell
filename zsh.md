@@ -26,3 +26,7 @@ source < (kubectl completion zsh)
 ```
 ## item2
 - Preferences -> Profile -> Color Presets... -> `Solarized Dark` 
+
+## plugins
+- [zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode#as-an-oh-my-zsh-custom-plugin)
+  - 플러그인 추가하고 `.zshrc` 다시 읽으면 vi 모드
