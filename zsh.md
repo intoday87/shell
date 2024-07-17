@@ -21,7 +21,9 @@ bindkey '^V' vi-cmd-mode
 # vi 환경으로 cli 사용
 set -o vi
 
-#kubectl 자동 완성
+# kubectl 자동 완성
+# mini kube가 설치되어 있어야
+# @see https://kubernetes.io/ko/docs/tutorials/hello-minikube/
 source < (kubectl completion zsh)
 ```
 ## item2
