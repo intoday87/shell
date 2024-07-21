@@ -10,7 +10,7 @@
 ZSH_THEME="agnoster"
 
 # plugins
-plugins=(git docker kubectl helm npx)
+plugins=(git docker kubectl helm npx zsh-vi-mode)
 
 # 이전 이후 히스토리
 bindkey '^P' up-line-or-search
